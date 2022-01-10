@@ -2,7 +2,7 @@
 
 I love creating amazing designs out of various inspirations and ultimately convert them into code.
 
-If you would prefer more of a live presentation then checkout my portfolio at [aboabaoladotun.netlify.app](https://aboabaoladotun.netlify.app/)
+If you would prefer more of a live presentation then checkout my portfolio at [aboabaoladotun.com](https://aboabaoladotun.com/)
 
 ### Where else can you see me??
 - [**Dribbble**](https://dribbble.com/derahn)
